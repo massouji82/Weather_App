@@ -1,0 +1,1 @@
+This code is based on Pretty Printed's Python Requests Tutorial - How to Call a Weather API, with some modifications. It uses the Requests library in Python to connect to the OpenWeatherMap API to get the current temperature by the way of local area codes. Flask is used to display the pages. 
